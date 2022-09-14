@@ -1,7 +1,7 @@
 package com.example.demo.domain;
 
 import com.example.demo.api.commands.OpenAccountCommand;
-import com.example.demo.dto.DocumentType;
+
 import com.example.demo.events.AccountClosedEvent;
 import com.example.demo.events.AccountOpenedEvent;
 import com.example.demo.events.FundsDepositedEvent;
